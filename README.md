@@ -100,13 +100,6 @@ chmod +x mecha-hasha.sh
 ```
 ![Mecha Hasha](https://raw.githubusercontent.com/yuriandrad/MechaHasha/main/mecha-hasha/images/meca.png)
 
-## Exemplo
-
-```bash
-Hash: 482c811da5d5b4bc6d497ffa98491e38
-Wordlist: rockyou.txt
-```
-
 
 ## Aviso Legal
 
