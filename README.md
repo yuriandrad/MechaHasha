@@ -1,5 +1,3 @@
-# MechaHasha
-
 # 🔥 MECHA-HASHA
 
 ```bash
