@@ -7,9 +7,7 @@
 | |\/| |  __|| |    |  __  | / /\ \ |  __  |/ _` / __| '_ \ 
 | |  | | |___| |____| |  | |/ ____ \| |  | | (_| \__ \ | | |
 |_|  |_|______\_____|_|  |_/_/    \_\_|  |_|\__,_|___/_| |_|
-```
 
-```bash
               {{{}}}}}}.
              {{{{{}}}}}}}.
             {{{{  {{{{{}}}}
@@ -62,7 +60,6 @@
               Y'       'Y
               '         '
 ```
----
 
 ## Sobre o Projeto
 
@@ -71,8 +68,6 @@
 * 🔍 Identificação de hashes
 * ⚔️ Ataques de dicionário
 * 🧪 Testes educacionais e auditorias autorizadas
-
----
 
 ## Funcionalidades
 
@@ -87,9 +82,7 @@
 * Execução de ataque de dicionário
 * Output de resultados
 
----
-
-## 🚀 Instalação
+## Instalação
 
 ### Dependências
 
@@ -98,7 +91,6 @@ sudo apt update
 sudo apt install hashcat john hashid
 ```
 
----
 
 ## Como usar
 
@@ -107,7 +99,6 @@ chmod +x mecha-hasha.sh
 ./mecha-hasha.sh
 ```
 ![Mecha Hasha](https://raw.githubusercontent.com/yuriandrad/MechaHasha/main/mecha-hasha/images/meca.png)
----
 
 ## Exemplo
 
@@ -116,7 +107,6 @@ Hash: 482c811da5d5b4bc6d497ffa98491e38
 Wordlist: rockyou.txt
 ```
 
----
 
 ## Aviso Legal
 
@@ -124,13 +114,11 @@ Este software é destinado **exclusivamente para fins educacionais e auditorias 
 
 O uso indevido pode violar leis locais.
 
----
 
 ## Contribuição
 
 Pull requests são bem-vindos!
 
----
 
 ## Autor
 
