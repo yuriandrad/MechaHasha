@@ -106,7 +106,7 @@ sudo apt install hashcat john hashid
 chmod +x mecha-hasha.sh
 ./mecha-hasha.sh
 ```
-(https://raw.githubusercontent.com/yuriandrad/MechaHasha/main/mecha-hasha/images/meca.png)
+![Mecha Hasha](https://raw.githubusercontent.com/yuriandrad/MechaHasha/main/mecha-hasha/images/meca.png)
 ---
 
 ## Exemplo
